@@ -1,35 +1,22 @@
-# Contrail Online 官方文档
+# Contrail 官方文档
 
-> ### 中文文档
-> ### 简介
+>### 简介
 
-Contrail Online 或是 轨道在线
+Contrail Online 或 轨道 （轨迹） ，是由可达鸭QQ机器人衍生出来的兼实用，娱乐为一体的网站项目。并且在GitHub上开源。
 
- #### 编辑人
+>#### 编辑人
 
-LingPo
+LingPo(简介，功能介绍)，Mizuhara37（开发进度，拓展教程）
 
- #### 介绍
+>#### 介绍
 
 这是一个由一位闲的没事干的人编辑出来的介绍，当然，程序不是我打的，是由Mizuhara37，我的好友彻夜咕咕咕，咕出来的（彻夜咕咕咕头发都没了好几根，支持一下吧！）
 
 我们在以后会加入更多东西，期待一下吧！
 
-> ### English version
+>### 开发进度
 
+目前Contrail Online 还是处在起步阶段，无论是在界面还是功能上会略显简略，毕竟开发者目前在学习压力比较大的环境下，只能在周末做完作业的空余时间可能更新一下。
 
-> ### Brief Introduction
-
-Contrail Online or Orbit Online
-
- #### Edited by
-
-LingPo
-
- #### Introduction
-
-This is an introduction edited by someone who has nothing better to do. Of course, I didn't type the program, it was edited by Mizuhara37, my good friend, Goo Goo Goo all night long (Goo Goo Goo all night long has lost several hairs, support it!)
-
-We will add more things in the future, so look forward to it!
-
+预计完全开发完成是在2023年7月，编写时是在2022年10月，将近一年的开发周期。
 
