@@ -2,21 +2,21 @@
 
 >### Introduction
 
-Contrail Online or Track (Track) is a practical and entertaining website project derived from the QQ robot of Daduck. And open source on GitHub.
+Contrail Online, or track, is a project derived from the Koda Duck QQ bot that is both a practical and entertaining website. And open source on GitHub.
 
 >#### Editor
 
-LingPo (Introduction, Function Introduction), Suwon 37 (Development Progress, Extension Tutorial)
+LingPo (introduction, features), Mizuhara37 (development progress, expansion tutorial)
 
 >#### Introduction
 
-This is an introduction edited by an idle person who has nothing to do, of course, the program is not played by me, by Mizuhara37, my buddy grunts all night, grunts out (all night grunts have lost several hairs, support it!). ）
+This is an introduction edited by a person with nothing better to do. Of course, the program is not typed by me, but by Mizuhara37, my good friend Goo Goo Goo all night long (Goo Goo Goo all night long has lost several hairs, support it!)
 
-We'll be adding more stuff in the future, so look forward to it!
+We will add more things in the future, so look forward to it!
 
-> the development progress of ###
+>#### Development progress
 
-At present, Contrail Online is still in its infancy, whether it is in the interface or function will be slightly brief, after all, developers are currently in a relatively stressful learning environment, and can only be updated in the spare time after completing homework on the weekend.
+Contrail Online is still in its initial stage, both in terms of interface and functionality will be slightly abbreviated, after all, the developers are currently in a relatively stressful learning environment, and can only update it on weekends when they have free time to do their homework.
 
-Full development is expected to be completed in July 2023 and written in October 2022, a development cycle of almost a year.
+Full development is expected to be completed in July 2023, and at the time of writing in October 2022, nearly a year's development cycle.
 
